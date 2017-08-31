@@ -1,8 +1,0 @@
-O plano de testes é o documento principal dos testes de software. Nele estão contidas informações importantes sobre as 
-partes envolvidas no teste, os objetivos do teste, as partes do software a serem testadas, os critérios de aceitação e 
-os passos necessários para executar os testes.
-
-Cada plano de testes possui descrição de um ou mais casos de teste. Um caso de teste compreende no mínimo um conjunto de ações
-a serem executadas e um critério de aceitação, que diz se o teste foi bem sucedido ou não. Na maioria das vezes os casos de teste
- possuem também critérios de entrada ou requisitos, e vem acompanhados de uma breve descrição do item a ser testado e dos
- objetivos que ele busca atingir.
